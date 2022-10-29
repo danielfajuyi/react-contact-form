@@ -1,0 +1,11 @@
+:root {
+  --formBoxShadow: inset 8px 8px 8px #e2e5e7, inset -8px -8px 8px #ffffff;
+  --submitBoxShadow: 2px 2px 7px #b1b1b1, -3px -3px 8px #ffffff;
+  --bgColor: #1e202c;
+  --pink: #ff007a;
+  --bgtext: white;
+}
+
+.App {
+  background: var(--bgColor);
+}
